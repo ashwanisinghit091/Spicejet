@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="168819" started-at="2019-09-03T04:08:11Z" finished-at="2019-09-03T04:11:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="168819" started-at="2019-09-03T04:08:11Z" finished-at="2019-09-03T04:11:00Z">
+      <class name="spicejet.Search_Hotel">
+        <test-method status="PASS" signature="invoke_Browser()[pri:0, instance:spicejet.Search_Hotel@71be98f5]" name="invoke_Browser" is-config="true" duration-ms="17773" started-at="2019-09-03T09:40:26Z" finished-at="2019-09-03T09:40:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke_Browser -->
+        <test-method status="PASS" signature="SearchHotel()[pri:0, instance:spicejet.Search_Hotel@71be98f5]" name="SearchHotel" duration-ms="16479" started-at="2019-09-03T09:40:44Z" finished-at="2019-09-03T09:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchHotel -->
+      </class> <!-- spicejet.Search_Hotel -->
+      <class name="spicejet.Search_Flight">
+        <test-method status="PASS" signature="invoke_Browser()[pri:0, instance:spicejet.Search_Flight@7a0ac6e3]" name="invoke_Browser" is-config="true" duration-ms="16098" started-at="2019-09-03T09:38:11Z" finished-at="2019-09-03T09:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke_Browser -->
+        <test-method status="PASS" signature="SearchFlight()[pri:0, instance:spicejet.Search_Flight@7a0ac6e3]" name="SearchFlight" duration-ms="118431" started-at="2019-09-03T09:38:28Z" finished-at="2019-09-03T09:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFlight -->
+      </class> <!-- spicejet.Search_Flight -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
